@@ -1,0 +1,5 @@
+{
+  "name": "library-printf",
+  "version": "6.0.0",
+  "description": "Tiny, fast(ish), self-contained and fully loaded printf, sprinf etc. implementation, mainly for embedded systems."
+}
